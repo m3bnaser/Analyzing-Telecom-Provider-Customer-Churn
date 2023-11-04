@@ -1,7 +1,6 @@
 # Analyzing Telecom Provider Customer Churn with Power BI
 
-![Project Banner](![image](https://github.com/m3bnaser/Analyzing-Telecom-Provider-Customer-Churn/assets/91283790/864fcddc-3ea1-4695-8983-ef1fed856be5)
-)
+![image](https://github.com/m3bnaser/Analyzing-Telecom-Provider-Customer-Churn/assets/91283790/864fcddc-3ea1-4695-8983-ef1fed856be5)
 
 ## Overview
 
